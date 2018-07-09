@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="common_main" target="1.8" />
+      <module name="common_test" target="1.8" />
+      <module name="DubboH_main" target="1.8" />
+      <module name="DubboH_test" target="1.8" />
+      <module name="DubboHello-hellodubbo_main" target="1.8" />
+      <module name="DubboHello-hellodubbo_main~1" target="1.8" />
+      <module name="DubboHello-hellodubbo_test" target="1.8" />
+      <module name="DubboHello-hellodubbo_test~1" target="1.8" />
+      <module name="hellodubbo_main" target="1.8" />
+      <module name="hellodubbo_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
